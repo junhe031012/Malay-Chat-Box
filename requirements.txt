@@ -2,4 +2,3 @@ streamlit
 pandas
 scikit-learn
 googletrans-py
-httpx
